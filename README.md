@@ -44,8 +44,8 @@ I enjoy exploring modern web technologies and continuously improving my skills t
 ---
 
 ## 🔹 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas011232&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anas011232=yourusername&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -57,7 +57,7 @@ I enjoy exploring modern web technologies and continuously improving my skills t
 **Technologies:** React, Node.js, Express.js, MongoDB, Firebase  
 
 **Screenshot:**  
-![Service Lane](https://via.placeholder.com/800x400.png?text=Service+Lane)
+![Service Lane](./Image/Screenshot%202025-10-06%20153523.png)
 
 **Core Features:** 
 
