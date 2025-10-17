@@ -1,6 +1,6 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="./Image/anas.png" alt="Banner" width="150" style="border-radius:50%;">
+<p align="left">
+  <img src="./Image/anas.png" alt="Banner" width="300" style="border-radius:50%;">
 </p>
 
 # Hi there 👋, I'm Anas Bin Rafiq
