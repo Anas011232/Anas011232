@@ -57,12 +57,7 @@ I enjoy exploring modern web technologies and continuously improving my skills t
 **Overview:** MERN-stack app for sharing, booking, and managing services with role-based access and booking status updates.  
 **Live Site:** [Click Here](https://aeleven-66e92.web.app/)  
 **Technologies:** React, Node.js, Express.js, MongoDB, Firebase  
-
-**Screenshot:**  
-![Service Lane](./Image/Screenshot%202025-10-06%20153523.png)
-
 **Core Features:** 
-
 - Real-time booking updates with Firebase  
 - Responsive UI built with Tailwind CSS  
 
