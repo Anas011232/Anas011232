@@ -45,7 +45,7 @@ I enjoy exploring modern web technologies and continuously improving my skills t
 
 ## 🔹 GitHub Stats
 ![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas011232&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anas011232=yourusername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas011232&layout=compact&theme=tokyonight)
 
 ---
 
