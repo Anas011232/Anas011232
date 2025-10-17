@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-![Banner](./Image/anas.png)
+<p align="center">
+  <img src="./Image/anas.png" alt="Banner" width="150" style="border-radius:50%;">
+</p>
 
 # Hi there 👋, I'm Anas Bin Rafiq
 ### MERN Stack Developer | Frontend & Backend Expert | Next.js & Firebase Enthusiast
