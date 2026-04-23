@@ -131,7 +131,3 @@ Here are some of my significant projects that demonstrate my skills:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" alt="Footer Wave" />
-</p>
