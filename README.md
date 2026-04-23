@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./Image/anas.png" alt="Anas Bin Rafiq" width="180" style="border-radius:50%; border: 5px solid #fff; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);">
+  <img src="./Image/673457644_949768567648545_8384613111970943862_n.jpg" alt="Anas Bin Rafiq" width="180" style="border-radius:50%; border: 5px solid #fff; box-shadow: 0px 0px 15px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">
